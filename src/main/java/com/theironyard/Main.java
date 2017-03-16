@@ -1,6 +1,5 @@
 package com.theironyard;
 
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
 
 import java.time.Month;
 import java.time.MonthDay;
